@@ -1,12 +1,12 @@
-a = 123;
+a = 123
 print(type(a))
 
 
-a = str(123);
+a = str(123)
 print(type(a))
 
 
-a = float(123);
+a = float(123)
 print(type(a))
 
 

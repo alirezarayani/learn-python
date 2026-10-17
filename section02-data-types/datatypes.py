@@ -19,3 +19,4 @@ print(123_456_789 + 1)
 print(4.14159)
 
 # Boolean True or False
+print(True)
